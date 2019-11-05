@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@types/node": "^12.12.5",
-    "npm": "^6.12.1",
+    "npm": "^6.13.0",
     "merge": ">=1.2.1",
     "randomatic": ">=3.0.0"
   }
